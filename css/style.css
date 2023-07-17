@@ -1,0 +1,56 @@
+.section {
+	margin: 49.5px 85px 800.5px 43px;
+}
+.image1 {
+	display: inline-block;
+	margin-top: 17.5px;
+	margin-right: 39px;
+	box-sizing: border-box;
+	vertical-align: top;
+}
+.georgian {
+	display: inline-block;
+	width: 929px;
+	height: 360px;
+	box-sizing: border-box;
+	margin-top: 21px;
+	margin-bottom: 144px;
+	vertical-align: top;
+}
+.paragraph1 {
+	font-size: 16px;
+	font-family: "ALK Life", sans-serif;
+}
+.paragraph2 {
+	font-size: 16px;
+	font-family: "ALK Rex Bold", sans-serif;
+}
+.paragraph3 {
+	font-size: 16px;
+	font-family: 'Big Shoulders Stencil Display', cursive;
+}
+.paragraph4 {
+	font-size: 16px;
+	font-family: 'Stint Ultra Condensed';
+}
+.image2 {
+	display: inline-block;
+	margin-top: 17.5px;
+	margin-right: 39px;
+	box-sizing: border-box;
+}
+.english {
+	display: inline-block;
+	width: 929px;
+	height: 360px;
+	box-sizing: border-box;
+	vertical-align: top;
+	margin-top: 21px;
+}
+.add-div1 {
+	margin-bottom: 20px;
+}
+.h3 {
+	font-family: BPGNinoMtavruli;
+	color: #000000;
+}
